@@ -1,2 +1,4 @@
 name: Ashar's lab project 1
 markdown: kramdown
+
+permalink: /blog/:year/:month/:day/:title
